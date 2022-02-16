@@ -1,0 +1,4 @@
+Digite um número: Digite um número:É múltiplo
+Digite um número: Digite um número:É múltiplo
+Digite um número: Digite um número:Nao eh multiplo
+Digite um número: Digite um número:Erro
